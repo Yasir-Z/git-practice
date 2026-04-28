@@ -13,8 +13,8 @@ jobs:
         uses: actions/checkout@v4
     
       - name: build container
-        run: docker-compose build
+        run: docker compose build
 
       - name: run container
-        run: docker-compose up -d
+        run: docker compose up -d
 

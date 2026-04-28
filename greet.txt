@@ -1,7 +1,0 @@
-Hello World
-
-changes from remote 
-
-latest changes on remote branch
-
-update again

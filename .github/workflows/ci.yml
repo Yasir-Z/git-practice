@@ -1,4 +1,3 @@
-# Pipeline starts here 
 name: ci-pipeline
 
 on:

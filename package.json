@@ -1,8 +1,0 @@
-{
-  "name": "cicd-demo",
-  "version": "1.0.0",
-  "main": "backend/app.js",
-  "dependencies": {
-    "express": "^4.22.1"
-  }
-}
